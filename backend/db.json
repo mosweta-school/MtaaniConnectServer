@@ -5,42 +5,41 @@
       "name": "deo",
       "email": "deo@gmail.com",
       "password": "$2b$10$vk9yniVvCp2UCmHVbRmN0upkenUpx83r3aj.R43uUBIy9F61DwrdO",
-      "role": "user"
+      "role": "user",
+      "isActive": "1"
     },
     {
       "id": "MFm1mLnKDsA",
       "name": "jane",
       "email": "jane@gmail.com",
       "password": "$2b$10$D42dMYo8ZtDtjpAha8g9tuWCcvXk9N/pGvyFAA/UIHVvoGC4iuib.",
-      "role": "admin"
+      "role": "admin",
+      "isActive": "1"
     },
     {
       "id": "OxzfeAOeHLI",
       "name": "Obama",
       "email": "obama360@gmail.com",
       "password": "$2b$10$y4pDOg1lrYjulgjh6czN.uWeXU2ihuPkHTsEMLuZ85GcqevgfkuLK",
-      "role": "user"
+      "role": "user",
+      "isActive": "1"
     },
     {
       "id": "OGpHLOuuUDs",
       "name": "deo",
       "email": "shinikizua@gmail.com",
       "password": "$2b$10$7eftfVvdKJ2RkUnthwwpFOmKcxwNXRW.BHj5vT4HYicIXwWbSQB1u",
-      "role": "admin"
+      "role": "admin",
+      "isActive": "1"
     },
-    {
-      "id": "uZzUyJ_2dnA",
-      "name": "David Kamau",
-      "email": "david@gmail.com",
-      "password": "$2b$10$.HBbScKuBSdgog/.Po0p/.X9hEFF6Mqia3YHF7hqVWFReDIsO15Cy",
-      "role": "user"
-    },
+  
     {
       "id": "jeWzqMFEDRg",
       "name": "Brian Mutai",
       "email": "brian@gmail.com",
       "password": "$2b$10$Il8/J.YBcNLmReQEpn4JTODqzH1/l521IQBhWGCN/WfV/mjCxoBHG",
-      "role": "user"
+      "role": "user",
+      "isActive": "0"
     }
   ],
   "events": [
