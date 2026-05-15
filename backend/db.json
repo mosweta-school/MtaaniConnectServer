@@ -49,7 +49,11 @@
       "description": "All about technology",
       "date": "2026-05-13",
       "time": "15:00",
-      "location": "Lavington",
+      "locationName": "Lavington",
+      "createdBy": "XCJ7rEmLsA4",
+      "organizerName": "deo",
+      "latitude": -1.2757534502632868,
+      "longitude": 36.78167050777162,
       "maxAttendees": "50",
       "id": "7xBRRJKMA9o"
     },
@@ -120,7 +124,7 @@
       "organizerName": "Brian Mutai",
       "latitude": -1.258834638548659,
       "longitude": 36.849106466568365,
-      "maxAttendees": 0,
+      "maxAttendees": "30",
       "id": "hURubEJUQ68"
     }
   ],
